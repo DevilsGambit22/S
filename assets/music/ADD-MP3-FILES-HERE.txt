@@ -1,0 +1,18 @@
+DROP YOUR MP3 FILES IN THIS FOLDER
+
+Examples:
+  white-room.mp3
+  class-d-theme.mp3
+  tokyo-night.mp3
+
+After uploading/committing the MP3 files to GitHub, the included GitHub Action automatically scans this folder and rebuilds data/playlist.json.
+
+You do not edit playlist.json manually.
+
+Optional artwork:
+Put an image with the SAME filename in assets/artwork.
+Example:
+  assets/music/white-room.mp3
+  assets/artwork/white-room.png
+
+Supported artwork: .png, .jpg, .jpeg, .webp, .svg

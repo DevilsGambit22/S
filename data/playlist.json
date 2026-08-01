@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Sugar Honey Ice Tea",
+    "artist": "BABYMONSTER",
+    "file": "assets/music/babymonster.mp3",
+    "cover": "assets/images/anhs-club-logo.png",
+    "genre": "K-Pop"
+  },
+  {
+    "title": "Moonlight Sonata",
+    "artist": "Ludwig van Beethoven",
+    "file": "assets/music/moonlight-sonata.mp3",
+    "cover": "assets/images/anhs-club-logo.png",
+    "genre": "Classical"
+  },
+  {
+    "title": "Welcome to the Classroom",
+    "artist": "Classroom of the Elite OST",
+    "file": "assets/music/classroom-ost.mp3",
+    "cover": "assets/images/anhs-club-logo.png",
+    "genre": "Anime OST"
+  },
+  {
+    "title": "Idol",
+    "artist": "YOASOBI",
+    "file": "assets/music/yoasobi-idol.mp3",
+    "cover": "assets/images/anhs-club-logo.png",
+    "genre": "J-Pop"
+  },
+  {
+    "title": "Boost Your Aura",
+    "artist": "ANHS Phonk Mix",
+    "file": "assets/music/chess-phonk.mp3",
+    "cover": "assets/images/anhs-club-logo.png",
+    "genre": "Phonk"
+  }
+]
