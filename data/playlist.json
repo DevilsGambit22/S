@@ -1,33 +1,27 @@
 [
   {
-    "title": "Sugar Honey Iced Tea",
-    "artist": "BABYMONSTER",
-    "file": "assets/music/BABYMONSTER - SUGAR HONEY ICED TEA M_V.mp3",
-    "cover": "assets/images/anhs-club-logo.png"
+    "title":"Sugar Honey Ice Tea",
+    "artist":"BABYMONSTER",
+    "file":"assets/music/babymonster.mp3"
   },
   {
-    "title": "Moonlight Sonata (Full)",
-    "artist": "Beethoven",
-    "file": "assets/music/Beethoven - Moonlight Sonata (FULL).mp3",
-    "cover": "assets/images/anhs-club-logo.png"
+    "title":"Moonlight Sonata",
+    "artist":"Beethoven",
+    "file":"assets/music/moonlight-sonata.mp3"
   },
   {
-    "title": "Welcome to the Classroom of the Supreme Ability Doctrine",
-    "artist": "Classroom of the Elite OST",
-    "file": "assets/music/Classroom of the Elite OST - 01 Welcome to the Classroom of the Supreme Ability Doctrine.mp3",
-    "cover": "assets/images/anhs-club-logo.png"
+    "title":"Welcome to the Classroom",
+    "artist":"Classroom of the Elite OST",
+    "file":"assets/music/classroom-ost.mp3"
   },
   {
-    "title": "Official Music Video",
-    "artist": "YOASOBI",
-    "file": "assets/music/YOASOBI「アドベンチャー」Official Music Video.mp3",
-    "cover": "assets/images/anhs-club-logo.png"
+    "title":"Idol",
+    "artist":"YOASOBI",
+    "file":"assets/music/yoasobi-idol.mp3"
   },
   {
-    "title": "Phonk Playlist to Boost Your Aura in Chess",
-    "artist": "Various Artists",
-    "file": "assets/music/Phonk Playlist to boost your aura in Chess.🔥.mp3",
-    "cover": "assets/images/anhs-club-logo.png"
+    "title":"Boost Your Aura",
+    "artist":"Phonk",
+    "file":"assets/music/chess-phonk.mp3"
   }
 ]
-
