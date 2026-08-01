@@ -1,7 +1,0 @@
-OPTIONAL TRACK ARTWORK
-
-Use the same base filename as the MP3:
-  assets/music/white-room.mp3
-  assets/artwork/white-room.png
-
-Tracks without matching artwork use the ANHS club crest.
